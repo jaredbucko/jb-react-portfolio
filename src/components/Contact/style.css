@@ -1,0 +1,12 @@
+#contactSection {
+    font-family: 'Alata', sans-serif;
+    font-size: large;
+}
+
+a {
+    color: #ffa41b;
+}
+
+a:hover {
+    text-decoration: none;
+}
