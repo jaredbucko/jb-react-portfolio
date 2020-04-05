@@ -61,11 +61,8 @@ const projects = [
 
 function Portfolio() {
     return (
-      <div>
-          <h2 className="text-center mt-4 mb-4">Portfolio</h2>
-          <div>
-            <ProjectCard projects={projects}/>
-          </div>
+      <div className="" id="portfolio">
+        <ProjectCard projects={projects}/>
       </div>
     );
   }

@@ -2,23 +2,9 @@
     color: white;
     background-color: #005082;
     height: auto;
-}
-
-#title {
     font-family: 'Alata', sans-serif;
 }
 
 .navItem {
-    /* width: 33.33%; */
-    font-family: 'Alata', sans-serif;
-}
-
-#spacer {
-    padding: 15px;
-    margin: 0;
-    background-color: #005082;
-}
-
-h3 {
     font-size: large;
 }

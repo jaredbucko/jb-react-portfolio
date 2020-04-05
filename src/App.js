@@ -2,6 +2,7 @@ import React from 'react';
 import { BrowserRouter as Router, Route } from "react-router-dom";
 import './App.css';
 import Navbar from './components/Navbar';
+import Signature from './components/Signature';
 import Footer from './components/Footer';
 import About from "./components/About";
 import Portfolio from "./components/Portfolio";
@@ -13,7 +14,7 @@ function App() {
     <Router>
         <Navbar />
         <Wrapper>
-          <Route exact path="/" component={About} />
+          <Route exact path="/" component={Signature} />
           <Route exact path="/about" component={About} />
           <Route exact path="/portfolio" component={Portfolio} />
           <Route exact path="/contact" component={Contact} />
