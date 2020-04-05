@@ -1,3 +1,9 @@
+#navbar {
+    color: white;
+    background-color: #005082;
+    height: auto;
+}
+
 #title {
     font-family: 'Alata', sans-serif;
 }
