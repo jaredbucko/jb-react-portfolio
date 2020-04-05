@@ -30,7 +30,7 @@ const projects = [
     screenshot: burgerJournal,
     title: "Burger Journal",
     description: "Admit it, cheeseburgers are amazing. The Burger Journal is a node.js app that allows users to keep a log of burgers they have eaten and burgers they want to eat.",
-    launch: "https://guarded-citadel-13071.herokuapp.com/",
+    launch: "https://the-burger-journal.herokuapp.com/",
     github: "https://github.com/jaredbucko/burger-logger"
   },
   {
@@ -46,16 +46,16 @@ const projects = [
     screenshot: directoryImg,
     title: "Employee Directory",
     description: "React.js app for displaying a company directory. The search bar dynamically narrows results as the user types and both name columns can be sorted alphabetically.",
-    launch: "https://protected-plateau-43028.herokuapp.com/",
+    launch: "https://jb-employee-directory.herokuapp.com/",
     github: "https://github.com/jaredbucko/employee-directory"
   },
   {
     id: 6,
     screenshot: plannerImg,
-    title: "Day Planner",
-    description: "No-frills day planner app that allows users to save an input for each hour of the business day. The color of each block changes as the day progresses.",
-    launch: "https://jaredbucko.github.io/day-planner/index.html",
-    github: "https://github.com/jaredbucko/day-planner"
+    title: "Budget Tracker",
+    description: "Keep track of any budget and your expenses with this progressive web app. Save to the homescreen on your phone for offline use.",
+    launch: "https://jb-budget-tracker.herokuapp.com/",
+    github: "https://github.com/jaredbucko/budget-tracker"
   }
 ];
 
