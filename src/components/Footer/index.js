@@ -5,7 +5,7 @@ import "./style.css";
 function Footer() {
     return (
       <div className="" id="footer">
-        <Link to="/" className="App-link"><h5 className="text-right mb-0 p-4" id="copyright">©2020 Jared Ives Bucko</h5></Link>
+        <Link to="/" className="footerLink"><h5 className="text-right p-3 m-0" id="copyright">©2020 Jared I. Bucko</h5></Link>
       </div>
     );
   }

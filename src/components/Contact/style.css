@@ -1,12 +1,13 @@
 #contactSection {
     font-family: 'Alata', sans-serif;
     font-size: large;
+    min-height: 81vh;
 }
 
-a {
+.contactLink {
     color: #ffa41b;
 }
 
-a:hover {
+.contactLink:hover {
     text-decoration: none;
 }

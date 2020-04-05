@@ -1,10 +1,23 @@
 #footer {
     color: white;
     background-color: #005082;
+    position: relative;
+    bottom: 0;
+    width: 100vw;
     height: auto;
+    margin-bottom: 0;
 }
 
 #copyright {
     font-size: small;
     font-family: 'Alata', sans-serif;
+}
+
+.footerLink {
+    color: white;
+}
+
+.footerLink:hover {
+    text-decoration: none;
+    color: white;
 }

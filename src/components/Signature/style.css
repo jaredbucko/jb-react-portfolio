@@ -10,9 +10,9 @@
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */
     background-size: cover; /* Resize the background image to cover the entire container */
-    min-height: 83vh;
+    min-height: 84vh;
   }
 
   #siteName {
-      padding-top: 12vh;
+      padding-top: 6vh;
   }

@@ -62,6 +62,7 @@ const projects = [
 function Portfolio() {
     return (
       <div className="" id="portfolio">
+        <h2 className="text-center mt-4 mb-4" id="portfolioHeading">// portfolio</h2>
         <ProjectCard projects={projects}/>
       </div>
     );
