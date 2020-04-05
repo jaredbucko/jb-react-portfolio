@@ -1,16 +1,17 @@
 #navbar {
     color: white;
     background-color: #005082;
-    height: 10vh;
     font-family: 'Alata', sans-serif;
 }
 
 .navItem {
     font-size: large;
     color: white;
+    border-bottom-style: hidden;
+    border-width: 3px;
 }
 
-.navList:hover {
+.navItem:hover {
     border-bottom-style: solid;
-    border-width: 5px;
+    border-width: 3px;
 }
