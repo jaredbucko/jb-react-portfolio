@@ -5,7 +5,7 @@ function Signature() {
     return (
       <div className="hero-image" id="signature">
         <div>
-          <h1 className="text-center pt-4" id="myName">Jared I. Bucko</h1>
+          <h1 className="text-center pt-5" id="myName">Jared I. Bucko</h1>
         </div>
         <div>
           <h2 className="text-center">// web dev</h2>
