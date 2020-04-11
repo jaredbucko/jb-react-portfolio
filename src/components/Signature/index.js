@@ -4,8 +4,8 @@ import "./style.css";
 function Signature() {
     return (
       <div className="hero-image" id="signature">
-        <div id="siteName">
-          <h1 className="text-center" id="myName">Jared I. Bucko</h1>
+        <div>
+          <h1 className="text-center pt-4" id="myName">Jared I. Bucko</h1>
         </div>
         <div>
           <h2 className="text-center">// web dev</h2>
