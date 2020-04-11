@@ -4,6 +4,10 @@
     font-family: 'Alata', sans-serif;
 }
 
+.navList {
+    height: 70px;
+}
+
 .navItem {
     font-size: large;
     color: white;
